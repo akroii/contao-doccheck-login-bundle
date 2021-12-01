@@ -7,7 +7,7 @@
     name="dc_login_iframe"
     id="dc_login_iframe"
     src="<?=$this->url?>"
+    target="<?=$this->doccheck_frame_option ?>"
 >
-    <a href="<?=$this->url?>" target="_blank">LOGIN</a>
 </iframe>
 <?php $this->endblock() ?>
