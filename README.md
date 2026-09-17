@@ -3,6 +3,9 @@
 [![Release](https://img.shields.io/github/release-date/tastaturberuf/contao-doccheck-login-bundle)](https://github.com/Tastaturberuf/contao-doccheck-login-bundle)
 [![Last Commit](https://img.shields.io/github/last-commit/tastaturberuf/contao-doccheck-login-bundle)](https://github.com/Tastaturberuf/contao-doccheck-login-bundle/commits/main)
 
+# not maintained anymore!!!
+
+
 # Contao Doccheck Login Bundle
 
 With this Contao bundle you can easily implement the [DocCheck](https://www.doccheck.com/) login.
